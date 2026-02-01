@@ -228,7 +228,7 @@ Open source - Feel free to use for personal or commercial projects
 ## 🤝 Support
 
 For questions or issues, please reach out:
-- 📧 Email: PearlKumar1459@gmail.com
+- 📧 Email: pearlKumar1459@gmail.com
 - 📱 Phone: 9508887325
 
 ---
